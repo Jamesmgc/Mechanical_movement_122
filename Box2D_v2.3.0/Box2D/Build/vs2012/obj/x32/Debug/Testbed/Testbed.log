@@ -1,0 +1,26 @@
+﻿Build started 21/05/2015 22:08:53.
+     1>Project "C:\Users\james\Desktop\rwm_5\Box2D_v2.3.0 - Copy\Box2D\Build\vs2012\Testbed.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "obj\x32\Debug\Testbed\Testbed.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\.. /ZI /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"obj\x32\Debug\Testbed\\" /Fd"bin\Debug\Testbed.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Testbed\Framework\Main.cpp ..\..\Testbed\Framework\Render.cpp ..\..\Testbed\Framework\Test.cpp ..\..\Testbed\Tests\TestEntries.cpp
+         TestEntries.cpp
+         Test.cpp
+         Render.cpp
+         Main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"bin\Debug\Testbed.exe" /INCREMENTAL:NO /NOLOGO bin\Debug\Box2D.lib bin\Debug\FreeGLUT.lib bin\Debug\GLUI.lib glu32.lib opengl32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"obj\x32\Debug\Testbed\Testbed.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\james\Desktop\rwm_5\Box2D_v2.3.0 - Copy\Box2D\Build\vs2012\bin\Debug\Testbed.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"bin\Debug\Testbed.lib" /MACHINE:X86 obj\x32\Debug\Testbed\Main.obj
+         obj\x32\Debug\Testbed\Render.obj
+         obj\x32\Debug\Testbed\Test.obj
+         obj\x32\Debug\Testbed\TestEntries.obj
+     1>Main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         Testbed.vcxproj -> C:\Users\james\Desktop\rwm_5\Box2D_v2.3.0 - Copy\Box2D\Build\vs2012\bin\Debug\Testbed.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"bin\Debug\Testbed.exe;#1" /manifest obj\x32\Debug\Testbed\Testbed.exe.intermediate.manifest
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(562,5): error MSB6006: "mt.exe" exited with code 31.
+     1>Done Building Project "C:\Users\james\Desktop\rwm_5\Box2D_v2.3.0 - Copy\Box2D\Build\vs2012\Testbed.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.44
