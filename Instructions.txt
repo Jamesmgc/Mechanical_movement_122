@@ -1,0 +1,3 @@
+The .exe file for the testbed is in Mechanical_movement_122\Box2D_v2.3.0\Box2D\Build\vs2012\bin\Debug
+
+To build/modify the code go into C:\Users\james\Desktop\test_repo_m122\Mechanical_movement_122\Box2D_v2.3.0\Box2D\Build\vs2012 and run the solution in vs2010.
