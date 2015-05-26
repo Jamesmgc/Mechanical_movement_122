@@ -1,4 +1,4 @@
-﻿Build started 21/05/2015 22:08:40.
+﻿Build started 26/05/2015 12:52:16.
      1>Project "C:\Users\james\Desktop\rwm_5\Box2D_v2.3.0 - Copy\Box2D\Build\vs2012\FreeGLUT.vcxproj" on node 4 (build target(s)).
      1>InitializeBuildStatus:
          Creating "obj\x32\Debug\FreeGLUT\FreeGLUT.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -64,4 +64,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:03.06
+Time Elapsed 00:00:03.59

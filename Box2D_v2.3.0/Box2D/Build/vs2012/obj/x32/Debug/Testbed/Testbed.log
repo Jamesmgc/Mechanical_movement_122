@@ -1,4 +1,4 @@
-﻿Build started 21/05/2015 22:08:53.
+﻿Build started 26/05/2015 12:52:30.
      1>Project "C:\Users\james\Desktop\rwm_5\Box2D_v2.3.0 - Copy\Box2D\Build\vs2012\Testbed.vcxproj" on node 4 (build target(s)).
      1>InitializeBuildStatus:
          Touching "obj\x32\Debug\Testbed\Testbed.unsuccessfulbuild".
@@ -23,4 +23,4 @@
 
 Build FAILED.
 
-Time Elapsed 00:00:03.44
+Time Elapsed 00:00:04.45
